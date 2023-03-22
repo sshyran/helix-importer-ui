@@ -14,7 +14,7 @@
     "semantic-release": "semantic-release"
   },
   "dependencies": {
-    "@adobe/helix-importer": "2.5.15",
+    "@adobe/helix-importer": "2.8.8",
     "@adobe/mdast-util-gridtables": "1.0.6",
     "@adobe/remark-gridtables": "1.0.2",
     "@spectrum-web-components/bundle": "0.28.7",
@@ -30,7 +30,7 @@
     "unified": "10.1.2"
   },
   "devDependencies": {
-    "@adobe/eslint-config-helix": "2.0.1",
+    "@adobe/eslint-config-helix": "2.0.2",
     "@babel/core": "7.20.12",
     "@babel/eslint-parser": "7.19.1",
     "@semantic-release/changelog": "6.0.2",
